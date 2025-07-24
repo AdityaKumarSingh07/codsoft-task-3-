@@ -13,6 +13,9 @@ This is a simple web-based calculator built using **HTML**, **CSS**, and **JavaS
 - Supports addition, subtraction, multiplication, and division
 - Clear and delete (backspace) functions
 - Responsive and styled using CSS Grid
+ 
+
+## DEMO LIVE LINK:  https://adityakumarsingh07.github.io/codsoft-task-3-/
 
 ## 🛠️ Technologies Used
 
